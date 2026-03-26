@@ -1,0 +1,5 @@
+# 排除大模型、训练数据集、输出文件夹
+src/medical_finetune_output/
+src/DeepSeek-R1-Distill-Qwen-7B/
+src/huatuo_subset_20k/
+src/train_datasets.jsonl
